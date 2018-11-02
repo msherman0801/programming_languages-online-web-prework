@@ -9,5 +9,5 @@ def hashing(hash)
     end
     newHash[:javascript][:style].push(:oo)
   end
-  puts newHash
+  newHash
 end
