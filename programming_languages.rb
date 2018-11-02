@@ -9,5 +9,5 @@ def reformat_languages(hash)
     end
     newHash[:javascript][:style].push(:oo)
   end
-ewHash
+  newHash
 end
